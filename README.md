@@ -1,5 +1,8 @@
 # Everydungeon
 An open-source TTRPG.
+
+[List of Abilities](https://everydungeon.notion.site/e8f65c60994e452f801ae4dce863ca47?v=326292c77fb044eaa3b12770eb7d2f4c)
+
 # The Purpose
 ## 1. Anyone can play
 The system must be relatively simple to understand, not rely on large tables, and not involve too much math.
