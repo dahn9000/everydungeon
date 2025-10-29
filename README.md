@@ -101,7 +101,7 @@ Open Stuck Door: STR +10 >= d20
 1 Language per INT, start with Common
 
 ## Note
-No encumberance, and distance is GM discretion.
+No encumberance, and distance is optional. I'd recommend using a chessboard with chess pieces, and checkers pieces for walls, doors, and obstacles. The design philosophy is that I never want people to not be able to do something due to distance, if it seems reasonable to do so. As such, time is also optional.
 
 # Combat Loop
 1. Everyone rolls for initiative, add STR
