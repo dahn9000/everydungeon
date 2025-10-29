@@ -12,11 +12,11 @@ The system must be modular and community created.
 
 ## 3. Attempts to create a comprehensive system
 Below is a metaphorical equation to better convey the message.
-Let E(t) be Everydungeon with some time t.
-Let C be the hypothetical, completely comprehensive TTRPG system.
+Let E(c) be Everydungeon with some contribution c.
+Let P be the hypothetical, completely comprehensive TTRPG system, the "Perfection".
 
 $$
-\lim_{t\to\infty} E(t) = C
+\lim_{c\to\infty} E(c) = P
 $$
 
 # The Core Combat System
