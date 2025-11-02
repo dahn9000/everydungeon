@@ -115,4 +115,4 @@ None of the below has any combat influence, but may influence socials.
 - Name
 - Race
 - Gender
-- Affiliation (choose from the lore)
+- Affiliation
